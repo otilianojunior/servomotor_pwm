@@ -147,7 +147,7 @@ Abaixo, um exemplo da simulação no Wokwi:
   Todo o código fonte deste projeto encontra-se neste repositório.
 
 - **vídeo Ensaio:**  
-  [Link para o Vídeo](https://www.dropbox.com/scl/fi/i32f4t9dqggn4c1durb4o/2025-02-04-08-52-05.mkv?rlkey=s6ofq9yumuts3h8chte052cuj&dl=0)
+  [Link para o Vídeo](https://drive.google.com/file/d/1ZsINNTb97TPNRAALzobcL31s2tJ0x1RF/view?usp=sharing)
 
 ---
 
